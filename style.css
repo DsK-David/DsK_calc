@@ -1,0 +1,89 @@
+/*parte de tudo*/
+body {
+    font-size:15pt;
+    background-color:black;
+    background-size:cover;
+    background-repeat:no-repeat;
+    text-align:center;
+    
+    
+}
+/*parte do botão*/
+ div input{
+  color:white;
+  background-color:black;
+  font-size:15px;
+  border-radius:10px;
+  border-color:white;
+  
+}
+/*parte que mostra o resultado*/
+input[name="answer"]{
+  color:black;
+  background-color:#0D696C;
+  font-family:VT323;
+  font-size:27px;
+  }
+/*parte do cabeção */
+header{
+  text-align:right;
+color:white;
+}
+footer{
+  text-align:right;
+  color:white;
+}
+input[id="igual"]{
+  color:green;
+  background-color:black;
+}
+input[id="adição"]{
+  color:green;
+  background-color:black;
+}
+input[id="multiplicar"]{
+  color:green;
+  background-color:black;
+}
+input[id="dividir"]{
+  color:green;
+  background-color:black;
+}
+input[id="diferença"]{
+  color:green;
+  background-color:black;
+}
+input[id="apagar"]{
+  color:green ;
+  background-color:black;
+  font-size:15px;
+  text-align:center;
+ 
+}
+div[id="tudo"]{
+  border-radius:10px;
+  background-size:12px;
+  border-radius:20px;
+}
+/* resultado2 */
+input[name="answer"]{
+  color:black;
+  background-color:#0D696C;
+  font-size:30px;
+  border-radius:10%;
+  border-color:#0D696C;
+  text-align:center;
+  
+}
+/* botão */
+input[type="button"]{
+  font-size:39px;
+  border-radius:5px;
+  color:white;
+  height:50px;
+  width:100px;
+}
+input[name="carregar"]{
+background-color:black;
+
+}
